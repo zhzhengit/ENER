@@ -27,4 +27,4 @@ The download links of the datasets used in this work are shown as follows:
 For [SpanNER](https://github.com/neulab/spanner) and [BERT-Tagger](), we use [BERT-Large](https://github.com/google-research/bert).
 For Seq2Seq Model (https://github.com/yhcc/BARTNER), we use [BART-Large](https://paperswithcode.com/paper/bart-denoising-sequence-to-sequence-pre)
 
-
+If you find this model helpful, please consider citing the following related papers:
