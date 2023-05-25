@@ -1,6 +1,6 @@
 ## E-NER: Evidential Deep Learning for Trustworthy Named Entity Recognition
 
-This repository contains the code for our paper [Evidential Deep Learning for Trustworthy Named Entity Recognition) (ACL Findings, 2023).
+This repository contains the code for our paper [Evidential Deep Learning for Trustworthy Named Entity Recognition] (ACL Findings, 2023).
 
 ## Overview
 
