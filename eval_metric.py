@@ -1,4 +1,5 @@
 # encoding: utf-8
+# Jinlan Fu, 2021, https://github.com/neulab/spanner, revised by Zhang Zhen, 2022
 import torch
 
 def span_f1(predicts,span_label_ltoken,real_span_mask_ltoken):
